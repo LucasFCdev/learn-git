@@ -1,2 +1,2 @@
 # learn git
- teste git repositório
+ teste git e github repositório
